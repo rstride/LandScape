@@ -22,5 +22,5 @@ struct FavoriteButton: View {
 }
 
 #Preview {
-    FavoriteButton(isSet: .constant(true)
+    FavoriteButton(isSet: .constant(true))
 }
